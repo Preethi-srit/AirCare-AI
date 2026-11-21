@@ -1,0 +1,6 @@
+{
+  "name": "AirCare AI",
+  "description": "Intelligent family air quality companion for winter smog and urban air pollution — live AQI monitoring, Gemini-powered family safety plans, indoor air advisor, green lifestyle alternatives, and greenhouse gas impact calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
